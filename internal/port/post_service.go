@@ -3,7 +3,7 @@ package port
 import (
 	"context"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/domain"
 )
 
 type PostService interface {

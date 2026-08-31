@@ -5,7 +5,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/disdreamq/BlogApi/test/fixtures"
+	"github.com/meteoradev/BlogApi/test/fixtures"
 )
 
 var testDB *TestDatabase

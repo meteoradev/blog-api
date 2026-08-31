@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/domain"
 )
 
 func TestNewUser(t *testing.T) {

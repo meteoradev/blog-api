@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/disdreamq/BlogApi/config"
+	"github.com/meteoradev/BlogApi/config"
 	_ "github.com/jackc/pgx/v5/stdlib"
 	"github.com/jmoiron/sqlx"
 )

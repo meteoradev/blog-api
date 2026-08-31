@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
-	"github.com/disdreamq/BlogApi/internal/repository/postgres"
+	"github.com/meteoradev/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/repository/postgres"
 )
 
 func TestPostRepository_Create(t *testing.T) {

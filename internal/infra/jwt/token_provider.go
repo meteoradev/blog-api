@@ -4,7 +4,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/domain"
 	"github.com/golang-jwt/jwt/v5"
 )
 

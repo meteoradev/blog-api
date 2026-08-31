@@ -1,4 +1,4 @@
-module github.com/disdreamq/BlogApi
+module github.com/meteoradev/BlogApi
 
 go 1.26.4
 

@@ -3,8 +3,8 @@ package handler
 import (
 	"time"
 
-	"github.com/disdreamq/BlogApi/internal/infra/jwt"
-	"github.com/disdreamq/BlogApi/internal/middleware"
+	"github.com/meteoradev/BlogApi/internal/infra/jwt"
+	"github.com/meteoradev/BlogApi/internal/middleware"
 	"github.com/go-chi/chi/v5"
 	"github.com/redis/go-redis/v9"
 	"github.com/rs/zerolog"

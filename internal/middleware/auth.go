@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/disdreamq/BlogApi/internal/port"
+	"github.com/meteoradev/BlogApi/internal/port"
 )
 
 type AuthMiddleware struct {

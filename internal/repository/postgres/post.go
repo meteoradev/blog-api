@@ -5,7 +5,7 @@ import (
 	"database/sql"
 	"time"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/domain"
 	"github.com/jmoiron/sqlx"
 )
 

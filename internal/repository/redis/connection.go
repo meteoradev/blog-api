@@ -4,7 +4,7 @@ import (
 	"context"
 	"strconv"
 
-	"github.com/disdreamq/BlogApi/config"
+	"github.com/meteoradev/BlogApi/config"
 	"github.com/redis/go-redis/v9"
 )
 

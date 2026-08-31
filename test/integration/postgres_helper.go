@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/disdreamq/BlogApi/test/fixtures"
+	"github.com/meteoradev/BlogApi/test/fixtures"
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 	"github.com/testcontainers/testcontainers-go"

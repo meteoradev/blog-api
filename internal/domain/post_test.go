@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/domain"
 )
 
 func TestNewPost(t *testing.T) {

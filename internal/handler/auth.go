@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/disdreamq/BlogApi/internal/domain"
-	"github.com/disdreamq/BlogApi/internal/port"
-	"github.com/disdreamq/BlogApi/internal/service"
+	"github.com/meteoradev/BlogApi/internal/domain"
+	"github.com/meteoradev/BlogApi/internal/port"
+	"github.com/meteoradev/BlogApi/internal/service"
 )
 
 type AuthController struct {
